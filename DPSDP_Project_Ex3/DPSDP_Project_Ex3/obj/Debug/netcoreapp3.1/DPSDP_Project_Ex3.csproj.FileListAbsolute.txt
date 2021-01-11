@@ -1,0 +1,11 @@
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex3.exe
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex3.deps.json
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex3.runtimeconfig.json
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex3.runtimeconfig.dev.json
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex3.dll
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex3.pdb
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex3.csprojAssemblyReference.cache
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex3.AssemblyInfoInputs.cache
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex3.AssemblyInfo.cs
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex3.dll
+C:\Users\33610\source\repos\DPSDP_Project_Ex3\DPSDP_Project_Ex3\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex3.pdb

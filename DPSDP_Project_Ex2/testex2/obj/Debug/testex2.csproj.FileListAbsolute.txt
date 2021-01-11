@@ -1,0 +1,35 @@
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\testex2.dll
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\testex2.pdb
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\ConsoleApp1.exe
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\ConsoleApp1.pdb
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\ConsoleApp1.exe.config
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\obj\Debug\testex2.csprojAssemblyReference.cache
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\obj\Debug\testex2.csproj.CopyComplete
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\obj\Debug\testex2.dll
+F:\Facultate\Anul 2\ESILV\Disign pattern and soft development\Project DP\ConsoleApp1\testex2\obj\Debug\testex2.pdb
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\testex2.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\testex2.pdb
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\ConsoleApp1.exe
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\ConsoleApp1.pdb
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\ConsoleApp1.exe.config
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\obj\Debug\testex2.csprojAssemblyReference.cache
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\obj\Debug\testex2.csproj.CopyComplete
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\obj\Debug\testex2.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\DPSDP_GRAU_FLOCEA\ConsoleApp1\testex2\obj\Debug\testex2.pdb

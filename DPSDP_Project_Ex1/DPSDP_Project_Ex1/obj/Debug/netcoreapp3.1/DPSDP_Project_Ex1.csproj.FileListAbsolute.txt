@@ -1,0 +1,11 @@
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex1.exe
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex1.deps.json
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex1.runtimeconfig.json
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex1.runtimeconfig.dev.json
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex1.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\bin\Debug\netcoreapp3.1\DPSDP_Project_Ex1.pdb
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex1.csprojAssemblyReference.cache
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex1.AssemblyInfoInputs.cache
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex1.AssemblyInfo.cs
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex1.dll
+C:\Users\33610\Documents\ESILV\A4\DPSDP\Project\DPSDP_Project_Ex1\DPSDP_Project_Ex1\obj\Debug\netcoreapp3.1\DPSDP_Project_Ex1.pdb
